@@ -90,7 +90,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=miracledoescode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=miracledoescode&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=miracledoescode&theme=darkhub&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miracledoescode&theme=noctis-minimus&area=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miracledoescode&theme=noctis-minimus&area=true" height="500" alt="activity-graph graph"  />
 </div>
 
 ###
