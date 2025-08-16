@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Miracle from Nigeria.<br><br>- 🔭 I work as a software developer and day trader.<br><br>- 📚 Currently, I am learning about deep learning, artificial intelligence (AI), machine learning (ML), data structures and algorithms (DSA), and algorithmic trading💹. <br><br>- ⚡In my free time, I enjoy playing games or catching up on sleep.</p>
+<p align="left">I'm Miracle from Nigeria.<br><br>- 🔭 I'm a software developer and day trader.<br><br>- 📚 Currently, I am learning about deep learning, artificial intelligence (AI), machine learning (ML), data structures and algorithms (DSA), and algorithmic trading💹. <br><br>- ⚡In my free time, I enjoy playing games or catching up on sleep.</p>
 
 ###
 
