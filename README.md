@@ -1,14 +1,21 @@
-<h3 align="left">👩‍💻  About Me</h3>
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Miracle</h1>
+  <h3 align="center">A passionate software developer from Nigeria.</h3>
+</div>
 
-###
+---
 
-<p align="left">I'm Miracle from Nigeria.<br><br>- 🔭 I'm a software developer and day trader.<br><br>- 📚 Currently, I am learning about deep learning, artificial intelligence (AI), machine learning (ML), data structures and algorithms (DSA), and algorithmic trading💹. <br><br>- ⚡In my free time, I enjoy playing games or catching up on sleep.</p>
+### 👩‍💻 About Me
 
-###
+<p align="left">
+  - 🔭 I'm a software developer and day trader.<br>
+  - 📚 Currently, I am learning about deep learning, artificial intelligence (AI), machine learning (ML), data structures and algorithms (DSA), and algorithmic trading💹.<br>
+  - ⚡ In my free time, I enjoy playing games or catching up on sleep.
+</p>
 
-<h3 align="left">🛠 Tech stack</h3>
+---
 
-###
+### 🛠 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="33" alt="kubernetes logo"  />
@@ -58,34 +65,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="33" alt="webstorm logo"  />
 </div>
 
-###
+---
+
+### 🔥 My Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/miracle-mathew-8b0137354/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/miraclesayscode?t=d-xd66s-7k4nlC1cGEkA5w&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/thisismiraclemathew/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/thisismiraclemathew" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miracledoescode.miracledoescode&left_color=coral&right_color=gold"  />
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miracledoescode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=miracledoescode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=miracledoescode&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
@@ -93,9 +77,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miracledoescode&theme=noctis-minimus&area=true" height="500" alt="activity-graph graph"  />
 </div>
 
-###
+---
 
-<br clear="both">
+### Connect with me:
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/miracle-mathew-8b0137354/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/miraclesayscode" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/thisismiraclemathew/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-###
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miracledoescode.miracledoescode&left_color=coral&right_color=gold"  />
