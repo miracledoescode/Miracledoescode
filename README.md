@@ -1,12 +1,12 @@
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Miracle from Nigeria.<br><br>- 🔭 I'm a software developer and day trader.<br><br>- 📚 Currently, I am learning about deep learning, artificial intelligence (AI), machine learning (ML), data structures and algorithms (DSA), and algorithmic trading💹. <br><br>- ⚡In my free time, I enjoy playing games or catching up on sleep.</p>
+<p align="center">I'm Miracle from Nigeria.<br><br>- 🔭 I'm a software developer and day trader.<br><br>- 📚 Currently, I am learning about deep learning, artificial intelligence (AI), machine learning (ML), data structures and algorithms (DSA), and algorithmic trading💹. <br><br>- ⚡In my free time, I enjoy playing games or catching up on sleep.</p>
 
 ###
 
-<h3 align="left">🛠 Tech stack</h3>
+<h3 align="center">🛠 Tech stack</h3>
 
 ###
 
@@ -75,22 +75,22 @@
   </a>
 </div>
 
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miracledoescode.miracledoescode&left_color=coral&right_color=gold"  />
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=miracledoescode.miracledoescode&left_color=coral&right_color=gold"  />
+</p>
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miracledoescode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
+<h3 align="center">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=miracledoescode&theme=onedark" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=miracledoescode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=miracledoescode&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=miracledoescode&theme=darkhub&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miracledoescode&theme=noctis-minimus&area=true" height="500" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miracledoescode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=miracledoescode&locale=en&mode=weekly&theme=onedark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miracledoescode&theme=onedark&area=true" height="500" alt="activity-graph graph"  />
 </div>
 
 ###
