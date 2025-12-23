@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal development<br>👯 I’m looking to collaborate on good startup/s ideas and unique open-source projects<br>🤝 I’m looking for help with being the best at critical thinking<br>🌱 I’m currently learning DSA, AWS, and ML/AI, and data science<br>💬 Ask me about startup/s ideas and F1<br>⚡ Fun fact: I've more AI coding agents than my GitHub Repositories😅
+🔭 I’m currently working on my personal development<br>👯 I’m looking to collaborate on good startup/s ideas and unique open-source projects<br>🤝 I’m looking for help with being the best at critical thinking<br>🌱 I’m currently learning DSA, AWS, and AI/ML, and Data science<br>💬 Ask me about startup/s ideas and F1<br>⚡ Fun fact: I've more AI coding agents than my GitHub Repositories😅
 
 
 ## 🌐 Socials:
