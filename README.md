@@ -2,14 +2,13 @@
 <h3 align="left">I build software, explore AI, and learn by shipping.</h3>
 
 <p align="left">
-  <a href="https://github.com/miracledoescode/Miracledoescode"><img src="https://komarev.com/ghpvc/?username=miracledoescode" alt="profile views" /></a>
   <a href="https://linkedin.com/in/miracle-mathew"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" /></a>
   <a href="https://x.com/miraclesayscode"><img alt="X/Twitter" src="https://img.shields.io/badge/@miraclesayscode-black?logo=x&logoColor=white&style=flat" /></a>
   <a href="mailto:miraclesayscode@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" /></a>
   <a href="https://github.com/miracledoescode?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/miracledoescode?style=flat&logo=github" /></a>
 </p>
 
-<a href="#miracledoescode-title"><img src="https://github-readme-stats.vercel.app/api?username=miracledoescode&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Miracle's GitHub Statistics" align="right" /></a>
+<br>
 
 - :office: &nbsp;I'm currently working on becoming an **AI-native software engineer**
 - :seedling: &nbsp;I'm learning **[Go]** and building practical AI-assisted tools
@@ -61,11 +60,17 @@
   </tr>
 </table>
 
+<br>
+
 <h2 align="left">Coding Activity</h2>
 
 > My GitHub contribution activity.
 
+<img src="https://github-readme-stats.vercel.app/api?username=miracledoescode&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Miracle's GitHub Statistics" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=miracledoescode&theme=github-compact&hide_border=true&area=true&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff" width="100%" alt="GitHub activity graph" />
+
+<br>
 
 <h2 align="left">:snake: Contribution Snake</h2>
 
@@ -75,13 +80,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/miracledoescode/Miracledoescode/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
----
-
-<div align="center">
-  <img src="https://github.com/miracledoescode.png" width="60" height="60" alt="Miracle" />
-  <br>
-  <sub>Made with :heart: by <a href="https://github.com/miracledoescode">Miracle</a> · Lagos, NG :nigeria:</sub>
-</div>
 
 <!-- links -->
 
