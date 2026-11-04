@@ -1,92 +1,91 @@
+<h1 align="left" id="miracledoescode-title">:wave: Hello there! I'm Miracle</h1>
+<h3 align="left">I build software, explore AI, and learn by shipping.</h3>
+
+<p align="left">
+  <a href="https://github.com/miracledoescode/Miracledoescode"><img src="https://komarev.com/ghpvc/?username=miracledoescode" alt="profile views" /></a>
+  <a href="https://linkedin.com/in/miracle-mathew"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" /></a>
+  <a href="https://x.com/miraclesayscode"><img alt="X/Twitter" src="https://img.shields.io/badge/@miraclesayscode-black?logo=x&logoColor=white&style=flat" /></a>
+  <a href="mailto:miraclesayscode@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" /></a>
+  <a href="https://github.com/miracledoescode?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/miracledoescode?style=flat&logo=github" /></a>
+</p>
+
+<a href="#miracledoescode-title"><img src="https://github-readme-stats.vercel.app/api?username=miracledoescode&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Miracle's GitHub Statistics" align="right" /></a>
+
+- :office: &nbsp;I'm currently working on becoming an **AI-native software engineer**
+- :seedling: &nbsp;I'm learning **[Go]** and building practical AI-assisted tools
+- :brain: &nbsp;Building with AI and **shipping in public**
+- :speech_balloon: &nbsp;I like to talk about **open source**, **startups**, and **F1**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]** or **[X/Twitter]**
+
+<br>
+
+<h2 align="left" id="miracledoescode-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#miracledoescode-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" /></a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#miracledoescode-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#miracledoescode-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#miracledoescode-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /></a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#miracledoescode-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /></a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#miracledoescode-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /></a>
+      <br>Postgres
+    </td>
+    <td align="center" width="96">
+      <a href="#miracledoescode-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /></a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#miracledoescode-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /></a>
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">Coding Activity</h2>
+
+> My GitHub contribution activity.
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miracledoescode&theme=github-compact&hide_border=true&area=true&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff" width="100%" alt="GitHub activity graph" />
+
+<h2 align="left">:snake: Contribution Snake</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miracledoescode/Miracledoescode/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miracledoescode/Miracledoescode/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/miracledoescode/Miracledoescode/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+---
+
 <div align="center">
-  <div style="max-width: 1180px; margin: 0 auto; background: #0d1117; border: 1px solid #30363d; border-radius: 18px; overflow: hidden; box-shadow: 0 20px 50px rgba(0,0,0,0.35);">
-    <div style="display: flex; flex-wrap: wrap; min-height: 760px;">
-      <div style="flex: 0 0 320px; background: #0f172a; border-right: 1px solid #30363d; padding: 24px 20px 18px;">
-        <div align="center" style="margin-bottom: 18px;">
-          <img src="https://github.com/miracledoescode.png" alt="Miracle profile" width="180" height="180" style="border-radius: 50%; border: 4px solid #1f2937; background: #111827;" />
-        </div>
-
-        <div style="font-size: 20px; font-weight: 700; color: #f0f6fc; text-align: center; margin-top: 10px;">Miracle</div>
-        <div style="font-size: 14px; color: #8b949e; text-align: center; margin-top: 4px;">@miracledoescode</div>
-
-        <div style="display: flex; gap: 10px; margin-top: 22px;">
-          <button style="flex: 1; background: #21262d; color: #f0f6fc; border: 1px solid #30363d; border-radius: 8px; padding: 10px 14px; font-weight: 600;">Follow</button>
-          <button style="flex: 1; background: #f5f5f5; color: #0d1117; border: none; border-radius: 8px; padding: 10px 14px; font-weight: 700;">Sponsor</button>
-        </div>
-
-        <div style="margin-top: 26px; color: #c9d1d9; font-size: 13px;">
-          <div style="margin-bottom: 10px;">💼 Learning to become an AI-native software engineer</div>
-          <div style="margin-bottom: 10px;">🌱 Currently learning Go</div>
-          <div style="margin-bottom: 10px;">🧠 Building with AI and shipping in public</div>
-          <div style="margin-bottom: 10px;">💬 Open to open-source and startup collaborations</div>
-        </div>
-
-        <div style="margin-top: 28px; padding-top: 18px; border-top: 1px solid #30363d; color: #c9d1d9; font-size: 13px;">
-          <div style="margin-bottom: 12px;">📍 Lagos, NG</div>
-          <div style="margin-bottom: 12px;">🔗 <a href="https://linkedin.com/in/miracle-mathew" style="color: #58a6ff; text-decoration: none;">LinkedIn</a></div>
-          <div style="margin-bottom: 12px;">✉️ <a href="mailto:miraclesayscode@gmail.com" style="color: #58a6ff; text-decoration: none;">miraclesayscode@gmail.com</a></div>
-          <div style="margin-bottom: 12px;">𝕏 <a href="https://x.com/miraclesayscode" style="color: #58a6ff; text-decoration: none;">@miraclesayscode</a></div>
-        </div>
-      </div>
-
-      <div style="flex: 1; min-width: 0; padding: 28px 30px 22px; background: #0d1117;">
-        <div style="font-size: 42px; font-weight: 800; color: #f0f6fc; line-height: 1.1; letter-spacing: -0.04em; margin-bottom: 18px;">Hello there! I'm Miracle</div>
-        <div style="font-size: 23px; font-weight: 600; color: #d1d5db; margin-bottom: 18px;">I build software, explore AI, and learn by shipping.</div>
-
-        <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 24px;">
-          <span style="padding: 6px 10px; border-radius: 8px; background: #111827; color: #c9d1d9; border: 1px solid #30363d; font-size: 12px; font-weight: 600;">15k+ profile views</span>
-          <span style="padding: 6px 10px; border-radius: 8px; background: #111827; color: #c9d1d9; border: 1px solid #30363d; font-size: 12px; font-weight: 600;">AI-native builder</span>
-          <span style="padding: 6px 10px; border-radius: 8px; background: #111827; color: #c9d1d9; border: 1px solid #30363d; font-size: 12px; font-weight: 600;">Open source</span>
-          <span style="padding: 6px 10px; border-radius: 8px; background: #111827; color: #c9d1d9; border: 1px solid #30363d; font-size: 12px; font-weight: 600;">F1 fan</span>
-        </div>
-
-        <div style="border-top: 1px solid #30363d; padding-top: 12px; margin-bottom: 18px;">
-          <ul style="list-style: none; padding: 0; margin: 0; color: #c9d1d9; font-size: 15px; line-height: 2;">
-            <li>• I'm currently working on becoming an AI-native software engineer</li>
-            <li>• I’m learning Go and building practical AI-assisted tools</li>
-            <li>• I like to talk about open source, startups, and F1</li>
-            <li>• Learn more about how I think by browsing my GitHub and projects</li>
-            <li>• Ask me anything on <a href="https://github.com/miracledoescode" style="color: #58a6ff; text-decoration: none;">GitHub</a> or <a href="https://linkedin.com/in/miracle-mathew" style="color: #58a6ff; text-decoration: none;">LinkedIn</a></li>
-          </ul>
-        </div>
-
-        <div style="margin-top: 18px;">
-          <h2 style="font-size: 20px; color: #f0f6fc; margin: 0 0 18px; padding-bottom: 8px; border-bottom: 1px solid #30363d;">Favorite Tech</h2>
-          <div style="display: grid; grid-template-columns: repeat(8, minmax(72px, 1fr)); gap: 8px;">
-            <div align="center" style="padding: 12px 8px; background: #111827; border: 1px solid #30363d; border-radius: 10px; color: #d1d5db; font-size: 12px; font-weight: 600;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Go" /><br>Go
-            </div>
-            <div align="center" style="padding: 12px 8px; background: #111827; border: 1px solid #30363d; border-radius: 10px; color: #d1d5db; font-size: 12px; font-weight: 600;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /><br>Python
-            </div>
-            <div align="center" style="padding: 12px 8px; background: #111827; border: 1px solid #30363d; border-radius: 10px; color: #d1d5db; font-size: 12px; font-weight: 600;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /><br>TypeScript
-            </div>
-            <div align="center" style="padding: 12px 8px; background: #111827; border: 1px solid #30363d; border-radius: 10px; color: #d1d5db; font-size: 12px; font-weight: 600;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /><br>React
-            </div>
-            <div align="center" style="padding: 12px 8px; background: #111827; border: 1px solid #30363d; border-radius: 10px; color: #d1d5db; font-size: 12px; font-weight: 600;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /><br>Node.js
-            </div>
-            <div align="center" style="padding: 12px 8px; background: #111827; border: 1px solid #30363d; border-radius: 10px; color: #d1d5db; font-size: 12px; font-weight: 600;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /><br>Postgres
-            </div>
-            <div align="center" style="padding: 12px 8px; background: #111827; border: 1px solid #30363d; border-radius: 10px; color: #d1d5db; font-size: 12px; font-weight: 600;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /><br>Docker
-            </div>
-            <div align="center" style="padding: 12px 8px; background: #111827; border: 1px solid #30363d; border-radius: 10px; color: #d1d5db; font-size: 12px; font-weight: 600;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /><br>Git
-            </div>
-          </div>
-        </div>
-
-        <div style="margin-top: 30px;">
-          <h2 style="font-size: 20px; color: #f0f6fc; margin: 0 0 16px; padding-bottom: 8px; border-bottom: 1px solid #30363d;">Coding Activity</h2>
-          <div style="padding: 12px 12px 8px; background: #111827; border: 1px solid #30363d; border-radius: 12px;">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=miracledoescode&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  <img src="https://github.com/miracledoescode.png" width="60" height="60" alt="Miracle" />
+  <br>
+  <sub>Made with :heart: by <a href="https://github.com/miracledoescode">Miracle</a> · Lagos, NG :nigeria:</sub>
 </div>
+
+<!-- links -->
+
+[Go]: https://go.dev "Go Programming Language"
+[issues page]: https://github.com/miracledoescode/Miracledoescode/issues "miracledoescode/issues"
+[LinkedIn]: https://www.linkedin.com/in/miracle-mathew "Miracle LinkedIn"
+[X/Twitter]: https://x.com/miraclesayscode "Miracle on X"
